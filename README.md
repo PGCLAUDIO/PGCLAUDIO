@@ -21,6 +21,8 @@ Me encuentro sumando capacidades y habilidades en materia de inteligencia de neg
   •	Microsoft Office (Excel, Power Point, Word)
   •	Power BI, Power Query
   •	Conos BI, TM1
+
+  [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
   
 # Aprendiendo Actualmente
 
