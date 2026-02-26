@@ -84,7 +84,7 @@ Me encuentro sumando capacidades y habilidades en materia de inteligencia de neg
   •	LinkedIn: https://es.linkedin.com/in/claudio-per%C3%A9z-gom%C3%A9z-96081225
   •	Email: pgclaudio72@gmail.com
   
-    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+    .[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+    .[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 
 
