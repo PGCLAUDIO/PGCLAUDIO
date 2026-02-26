@@ -22,16 +22,27 @@ Me encuentro sumando capacidades y habilidades en materia de inteligencia de neg
   •	Power BI, Power Query
   •	Conos BI, TM1
 
+  [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
   [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
   
 # Aprendiendo Actualmente
 
   •	Python
+  •	HTML
   •	SQL
   •	Google Sheets
   •	GitHub
   •	Visual Code
   •	Discord
+  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+
+
   
 # Habilidades
 
@@ -71,7 +82,8 @@ Me encuentro sumando capacidades y habilidades en materia de inteligencia de neg
 # Contacto
 
   •	LinkedIn: https://es.linkedin.com/in/claudio-per%C3%A9z-gom%C3%A9z-96081225
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
   •	Email: pgclaudio72@gmail.com
-
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 
 
